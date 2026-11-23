@@ -1,0 +1,2 @@
+045,Deepak Sharma,24,Python,90.0,Postgraduate
+046,Vashapitta Vaishu,20,Python,90.0,Postgraduate
